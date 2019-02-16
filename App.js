@@ -35,3 +35,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   }
 });
+
+
+// File App.js From https://github.com/Zenkriztao/Project-Files/edit/master/App.js
