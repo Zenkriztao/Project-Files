@@ -38,3 +38,4 @@ const styles = StyleSheet.create({
 
 
 // File App.js From https://github.com/Zenkriztao/Project-Files/edit/master/App.js
+// File don't Replace!1
